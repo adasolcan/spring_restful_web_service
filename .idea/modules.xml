@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring_restful_web_service.iml" filepath="$PROJECT_DIR$/spring_restful_web_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_restful_web_service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_restful_web_service_main.iml" group="spring_restful_web_service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring_restful_web_service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring_restful_web_service_test.iml" group="spring_restful_web_service" />
+    </modules>
+  </component>
+</project>
